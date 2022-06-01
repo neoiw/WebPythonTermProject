@@ -1,0 +1,288 @@
+{
+  "guild": {
+    "id": "472708698893058049",
+    "name": "Neo's emote server",
+    "iconUrl": "https://cdn.discordapp.com/icons/472708698893058049/557b0242833c4bf6ab5019cffe1cb5aa.png"
+  },
+  "channel": {
+    "id": "980484042485035008",
+    "type": "GuildTextChat",
+    "categoryId": "472708699350106132",
+    "category": "채팅 채널",
+    "name": "pythonproject",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "980485835789066350",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:00:39.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Text",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980485845859573760",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:00:42.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "123",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980486194309787718",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:02:05.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "980486192493658202",
+          "url": "https://cdn.discordapp.com/attachments/980484042485035008/980486192493658202/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1129362
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980486229063786506",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:02:13.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Image with text",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "980486227243433984",
+          "url": "https://cdn.discordapp.com/attachments/980484042485035008/980486227243433984/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1129362
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980486682921033728",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:04:01.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Me at the zoo",
+          "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "jawed",
+            "url": "https://www.youtube.com/channel/UC4QobU6STFB0P71PMvOGN5A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/WoRdz-YJRP461Q044_vNcqqf-VlekQmgg7tAHzDEJ74/https/i.ytimg.com/vi/jNQXAC9IVRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980487125038428230",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:05:47.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://techcrunch.com/wp-content/uploads/2015/06/gifgif.gif?w=680",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/gifgif.gif?w=680",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jeoO-dDVndG8JxB-BxotOApmwajF93CaogKwgVhWlvY/%3Fw%3D680/https/techcrunch.com/wp-content/uploads/2015/06/gifgif.gif",
+            "width": 680,
+            "height": 680
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980488151095201842",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:09:51.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "980488150126321735",
+          "url": "https://cdn.discordapp.com/attachments/980484042485035008/980488150126321735/28ecf23005d3a183edce54910f27591e61c89c6c384ee0ba6e3eac9856769d70.mp4",
+          "fileName": "28ecf23005d3a183edce54910f27591e61c89c6c384ee0ba6e3eac9856769d70.mp4",
+          "fileSizeBytes": 308721
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980488230665338931",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:10:10.781+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980488516511334451",
+      "type": "Default",
+      "timestamp": "2022-05-29T15:11:18.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "316556365554384897",
+        "name": "- Neo -",
+        "discriminator": "0727",
+        "nickname": "- Neo -",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/316556365554384897/9b294cb81410ac8fd5823070657f3784.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "781291131828699156",
+          "name": "Wave",
+          "format": "PngAnimated",
+          "sourceUrl": "https://discord.com/stickers/781291131828699156.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}
